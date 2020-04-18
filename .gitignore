@@ -1,3 +1,5 @@
 .DS_Store
 config.py
 explore*
+#video files
+*.mp4

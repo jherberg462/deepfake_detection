@@ -3,3 +3,5 @@ config.py
 explore*
 #video files
 *.mp4
+#models are too large for github - will store in google drive
+*.h5
